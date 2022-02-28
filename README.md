@@ -1,4 +1,12 @@
 ### Hi there 👋
+<!-- ## About Me -->
+
+## 🌱 I’m currently learning
+- [Java](https://www.java.com/)
+
+## 🥰 Things I Love
+- [Python](https://www.python.org/) 
+- [Rust](https://www.rust-lang.org/)
 
 <!--START_SECTION:waka-->
 
