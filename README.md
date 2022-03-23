@@ -11,7 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 March 2022 - To: 22 March 2022
+
+Java             1 hr 32 mins    ██████████████████████░░░   88.65 %
+Markdown         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+TOML             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+HTML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
