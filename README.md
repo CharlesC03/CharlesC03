@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2022 - To: 28 March 2022
+From: 22 March 2022 - To: 29 March 2022
 
-Java             3 hrs 31 mins   ███████████████████████▓░   94.70 %
-Markdown         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-TOML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-HTML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java   1 hr 58 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
