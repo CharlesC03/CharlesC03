@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
-Java             9 hrs 42 mins   ██████████████████████░░░   88.14 %
-TeX              1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Java             11 hrs 21 mins  ██████████████████████▒░░   89.67 %
+TeX              1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
