@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
+From: 26 May 2022 - To: 02 June 2022
 
-Java             11 hrs 21 mins  ██████████████████████▒░░   89.67 %
-TeX              1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java             12 hrs 46 mins  ██████████████████████▓░░   90.74 %
+TeX              1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
