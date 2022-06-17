@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
-Java             17 hrs 40 mins  ████████████████████████▓   98.89 %
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Java             17 hrs 41 mins  ████████████████████████▓   98.70 %
+Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
