@@ -11,13 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 June 2022 - To: 16 June 2022
+From: 10 June 2022 - To: 17 June 2022
 
-Java             17 hrs 41 mins  ████████████████████████▓   98.70 %
-Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java             14 hrs 8 mins   ██████████████████████▓░░   90.99 %
+TeX              1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
