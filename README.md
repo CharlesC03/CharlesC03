@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
+From: 13 June 2022 - To: 20 June 2022
 
 Java             19 hrs 1 min    ████████████████████▓░░░░   82.92 %
 TeX              1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
