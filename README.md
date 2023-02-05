@@ -11,7 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 January 2023 - To: 05 February 2023
+
+Markdown      1 hr 40 mins    ███████████░░░░░░░░░░░░░░   44.46 %
+Other         1 hr 8 mins     ███████▓░░░░░░░░░░░░░░░░░   30.48 %
 ```
 
 <!--END_SECTION:waka-->
