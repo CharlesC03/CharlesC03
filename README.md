@@ -11,11 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
-Python       1 hr 58 mins    ████████████████░░░░░░░░░   64.47 %
-TypeScript   41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
-Other        23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Python       1 hr 58 mins    █████████████████████▓░░░   86.85 %
+TypeScript   17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
