@@ -2,7 +2,7 @@
 <!-- ## About Me -->
 
 ## 🌱 I’m currently learning
-- [Java](https://www.java.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 🥰 Things I Love
 - [Python](https://www.python.org/) 
