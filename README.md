@@ -11,12 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-TypeScript   18 hrs 6 mins   ████████████████████████▓   99.26 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   19 hrs 41 mins  ████████████████████████▓   99.15 %
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
