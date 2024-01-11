@@ -2,7 +2,7 @@
 <!-- ## About Me -->
 
 ## 🌱 I’m currently learning
-- [TypeScript](https://www.typescriptlang.org/)
+- Reinforcement Learning
 
 ## 🥰 Things I Love
 - [Python](https://www.python.org/) 
