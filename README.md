@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
 Python   2 hrs 36 mins   ███████████████████▒░░░░░   77.25 %
 TeX      46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
