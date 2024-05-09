@@ -7,6 +7,7 @@
 ## 🥰 Things I Love
 - [Python](https://www.python.org/) 
 - [Rust](https://www.rust-lang.org/)
+- [Ollama](https://ollama.com)
 
 <!--START_SECTION:waka-->
 
