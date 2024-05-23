@@ -12,10 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2024 - To: 21 May 2024
+From: 15 May 2024 - To: 22 May 2024
 
-TeX      3 hrs 49 mins   ███████████████████████▒░   93.76 %
-Python   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+TeX      5 hrs 40 mins   ████████████████████████▓   98.45 %
+Java     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
