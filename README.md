@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2024 - To: 26 May 2024
+From: 20 May 2024 - To: 27 May 2024
 
-TeX    6 hrs 53 mins   ████████████████████████▓   98.78 %
-Java   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TeX    6 hrs 29 mins   ████████████████████████▓   98.70 %
+Java   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
