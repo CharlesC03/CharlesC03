@@ -12,11 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 24 June 2024
+From: 18 June 2024 - To: 25 June 2024
 
-TeX      34 mins         ███████████████░░░░░░░░░░   59.36 %
-Python   22 mins         █████████▓░░░░░░░░░░░░░░░   38.86 %
-CSV      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
