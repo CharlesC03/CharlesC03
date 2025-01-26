@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
-Python   3 hrs 59 mins   █████████████████████████   99.86 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   3 hrs 37 mins   █████████████████████████   99.37 %
+CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
