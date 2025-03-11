@@ -2,12 +2,13 @@
 <!-- ## About Me -->
 
 ## 🌱 I’m currently learning
-- Reinforcement Learning
+- Machine Learning
 
 ## 🥰 Things I Love
 - [Python](https://www.python.org/) 
 - [Rust](https://www.rust-lang.org/)
 - [Ollama](https://ollama.com)
+- Reinforcement Learning
 
 <!--START_SECTION:waka-->
 
