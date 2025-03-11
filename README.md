@@ -13,9 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 17 March 2021 - To: 11 March 2025
 
-No activity tracked
+Java             137 hrs 34 mins █████████░░░░░░░░░░░░░░░░   36.32 %
+Python           94 hrs 33 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
+TeX              46 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+TypeScript       41 hrs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Other            34 hrs 53 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
 ```
 
 <!--END_SECTION:waka-->
