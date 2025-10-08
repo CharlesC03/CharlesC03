@@ -13,10 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2021 - To: 05 October 2025
+From: 17 March 2021 - To: 06 October 2025
 
-Java             137 hrs 34 mins ████████▒░░░░░░░░░░░░░░░░   32.72 %
-Python           134 hrs 31 mins ████████░░░░░░░░░░░░░░░░░   32.00 %
+Java             137 hrs 34 mins ████████▒░░░░░░░░░░░░░░░░   32.71 %
+Python           134 hrs 37 mins ████████░░░░░░░░░░░░░░░░░   32.02 %
 TeX              47 hrs 22 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
 TypeScript       41 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
 Other            34 hrs 54 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
