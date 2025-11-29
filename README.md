@@ -2,13 +2,15 @@
 <!-- ## About Me -->
 
 ## 🌱 I’m currently learning
-- Machine Learning
+- Natural Language Processing
+- Robotic Sensing and Navigation
 
 ## 🥰 Things I Love
 - [Python](https://www.python.org/) 
 - [Rust](https://www.rust-lang.org/)
 - [Ollama](https://ollama.com)
 - Reinforcement Learning
+- Machine Learning
 
 <!--START_SECTION:waka-->
 
