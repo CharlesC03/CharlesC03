@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2021 - To: 06 December 2025
+From: 17 March 2021 - To: 08 December 2025
 
-Python           184 hrs 29 mins █████████▓░░░░░░░░░░░░░░░   38.96 %
-Java             137 hrs 34 mins ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-TeX              47 hrs 22 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-TypeScript       41 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Other            35 hrs 6 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Markdown         8 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JavaScript       6 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-YAML             3 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python           190 hrs 7 mins  ██████████░░░░░░░░░░░░░░░   39.55 %
+Java             137 hrs 34 mins ███████░░░░░░░░░░░░░░░░░░   28.61 %
+TeX              47 hrs 22 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+TypeScript       41 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Other            36 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Markdown         8 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript       6 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+YAML             3 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
