@@ -2,8 +2,9 @@
 <!-- ## About Me -->
 
 ## 🌱 I’m currently learning
-- Natural Language Processing
-- Robotic Sensing and Navigation
+- Deep Learning
+- Computer Vision
+- Quantum Mechanics
 
 ## 🥰 Things I Love
 - [Python](https://www.python.org/) 
