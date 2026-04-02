@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2021 - To: 30 March 2026
+From: 17 March 2021 - To: 31 March 2026
 
 Python           225 hrs 4 mins        ██████████▓░░░░░░░░░░░░░░   42.27 %
 Java             137 hrs 34 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
