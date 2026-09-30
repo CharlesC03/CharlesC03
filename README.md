@@ -2,9 +2,7 @@
 <!-- ## About Me -->
 
 ## 🌱 I’m currently learning
-- Deep Learning
-- Computer Vision
-- Quantum Mechanics
+- Autonomous Field Robotics
 
 ## 🥰 Things I Love
 - [Python](https://www.python.org/) 
